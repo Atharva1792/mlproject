@@ -25,3 +25,7 @@ This project understands how the student's performance (test scores) is affected
 - XGBRegressor
 - CatBoostRegressor
 - AdaBoostRegressor
+
+## Deployment:
+- Built using Flask to create a simple web app
+- When we run app.py, a little website pops up locally at http://127.0.0.1:5000/
